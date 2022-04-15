@@ -1,4 +1,4 @@
-## Reddit exercises
+### Reddit exercises
 
 1. [Additive Persistence](https://www.reddit.com/r/dailyprogrammer/comments/akv6z4/20190128_challenge_374_easy_additive_persistence/)
 1. [Making change](https://www.reddit.com/r/dailyprogrammer/comments/nucsik/20210607_challenge_393_easy_making_change/)
