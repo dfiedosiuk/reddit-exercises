@@ -17,6 +17,7 @@ class P04Spec extends AnyFlatSpec with should.Matchers {
     addToDigitOne(998) shouldBe 10109
     addToDigitOne(909) shouldBe 10110
     addToDigitOne(999) shouldBe 101010
+    addToDigitOne(1923) shouldBe 21034
   }
 
 }
